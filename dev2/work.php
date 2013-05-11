@@ -1,6 +1,9 @@
 
   
-  
+        <hr class="featurette-divider" id="work">
+
+
+      <div class="featurette" >
   
   <div id="carouselBackGround">
     <div id="myCarousel" class="carousel slide">
@@ -47,9 +50,19 @@
     </div>
       </div>
 	</div>
+    
+      <hr class="featurette-divider">
   
-  
-  
+      <!-- script to make the carousel work  -->
+    <script>
+      !function ($) {
+        $(function(){
+          // carousel demo
+          $('#myCarousel').carousel()
+        })
+      }(window.jQuery)
+    </script>
+
   
   
   
