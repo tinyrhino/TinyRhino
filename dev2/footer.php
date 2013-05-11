@@ -30,32 +30,7 @@
                  </div> <!-- end social -->
                 
             </div><!-- end contact-info -->
-             <script>
-      !function ($) {
-        $(function(){
-              // this is the id of the submit button
-			  $("#emailForm").submit(function() {
-			
-				var url = "email.php"; // the script where you handle the form input.
-			
-				$.ajax({
-					   type: "POST",
-					   url: url,
-					   data: $("#emailForm").serialize(), // serializes the form's elements.
-					   success: function(data)
-					   {
-						   $('#emailForm')[0].reset();
-						   $('#contactForm').prepend('<h1 class="text-success" id="messageSent">Message sent!</h1>');
-						   $("#messageSent").fadeIn("slow");
-						   window.location.href = '#contact';
-					   }
-					 });
-			
-				return false; // avoid to execute the actual submit of the form.
-			});
-        })
-      }(window.jQuery)
-    </script>
+
         
         </div><!-- end footer -->
 
@@ -63,26 +38,14 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/parsley.js"></script>
-<!--    <script src="js/bootstrap-alert.js"></script>
-    <script src="js/bootstrap-modal.js"></script>
-    <script src="js/bootstrap-dropdown.js"></script>
-    <script src="js/bootstrap-scrollspy.js"></script>
-    <script src="js/bootstrap-tab.js"></script>
-    <script src="js/bootstrap-tooltip.js"></script>
-    <script src="js/bootstrap-popover.js"></script>
-    <script src="js/bootstrap-button.js"></script>
-    <script src="js/bootstrap-collapse.js"></script>
-    <script src="js/bootstrap-carousel.js"></script>
-    <script src="js/bootstrap-typeahead.js"></script>--> 
+
     
 
 	<!-- script to make the navigation scroll -->
-    <script>
-	!function ($) {
-    $(function(){
+    <script type="text/javascript">
 
         var $root = $('html, body');
 
@@ -96,9 +59,38 @@
             return false;
 
         });
-    })
-}(window.jQuery)
-	</script>
-   
+
+
+
+              // AJAX submit
+			  $("#emailForm").submit(function() {
+			
+				var url = "email.php"; 
+			
+				$.ajax({
+					   type: "POST",
+					   url: url,
+					   data: $("#emailForm").serialize(),
+					   success: function(data)
+					   {
+						   $('#emailForm')[0].reset();
+						   $('#contactForm').prepend('<h1 class="text-success" id="messageSent">Message sent!</h1>');
+						   $("#messageSent").fadeIn("slow");
+						   window.location.href = '#contact';
+					   }
+					 });
+			
+				return false; // avoid to execute the actual submit of the form.
+			});
+
+
+    
+    <!-- script to make the carousel work  -->
+
+
+          // carousel demo
+          $('#myCarousel').carousel();
+
+    </script>
   </body>
 </html>

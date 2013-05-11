@@ -1,5 +1,7 @@
 <?php include 'head.php'; ?>
 <?php include 'nav.php'; ?><!-- NAVBAR -->
+     
+     <div id="topImageOuter"><div id="topImageInner"></div></div>
 
  <div class="container marketing ">
 

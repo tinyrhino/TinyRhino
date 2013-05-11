@@ -29,6 +29,22 @@
 	#topbit{
 		margin-top:50px;
 	}
+	
+	#topImageInner{
+		background-image:url('../img/background-header.jpg');
+		background-repeat:no-repeat; 
+		background-position:center; 
+		height:420px; 
+		width:100%;
+	}
+	
+	#topImageOuter{
+		background-image:url('../img/extra.jpg');
+		 
+		background-position:center; 
+		height:420px; 
+		width:100%;
+	}
  
  
 

@@ -53,15 +53,7 @@
     
       <hr class="featurette-divider">
   
-      <!-- script to make the carousel work  -->
-    <script>
-      !function ($) {
-        $(function(){
-          // carousel demo
-          $('#myCarousel').carousel()
-        })
-      }(window.jQuery)
-    </script>
+
 
   
   
