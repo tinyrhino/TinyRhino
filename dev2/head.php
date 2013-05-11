@@ -17,7 +17,13 @@
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
+      <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/work.css" rel="stylesheet">
+    <link href="css/about.css" rel="stylesheet">
+     <link href="css/IE8.css" rel="stylesheet">
+    
     <![endif]-->
 
     <!-- Fav and touch icons -->

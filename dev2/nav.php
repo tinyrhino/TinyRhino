@@ -6,7 +6,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#home">tiny rhino</a>
+          <div class="logo" ><a id="logolink" href="#home"><img src="img/whitelogo.png" width="150" height="42" /></a></div>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li><a href="#home">Home</a></li>

@@ -29,13 +29,24 @@
 	#topbit{
 		margin-top:50px;
 	}
-	
+	.logo{
+		height: 42px;
+		width: 150px;
+		float: left;
+
+}
 	#topImageInner{
 		background-image:url('../img/background-header.jpg');
 		background-repeat:no-repeat; 
 		background-position:center; 
 		height:420px; 
 		width:100%;
+	}
+	
+	#logolink{
+		float:left;
+		height: 42px;
+		width: 150px;
 	}
 	
 	#topImageOuter{
