@@ -34,7 +34,12 @@
 		width: 150px;
 		float: left;
 
-}
+	}
+	
+	.logo h1{
+		position:absolute;
+		left:-1000px;}
+
 	#topImageInner{
 		background-image:url('../img/background-header.jpg');
 		background-repeat:no-repeat; 
