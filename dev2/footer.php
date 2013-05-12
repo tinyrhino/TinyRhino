@@ -41,6 +41,7 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/parsley.js"></script>
+    <script src="js/charge.js"></script>
 
     
 
@@ -77,6 +78,7 @@
 						   $('#contactForm').prepend('<h1 class="text-success" id="messageSent">Message sent!</h1>');
 						   $("#messageSent").fadeIn("slow");
 						   window.location.href = '#contact';
+						   
 					   }
 					 });
 			

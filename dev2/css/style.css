@@ -70,7 +70,15 @@
 		display:block;
 		margin:0 auto;
 	}
+	
+	#moreCharge{
+		display:none;
+		border:dashed red 1px;
+		margin-left: 30px;
+		
+	}
  
+ .spaceForNav{margin-bottom:50px;}
 
     /* MARKETING CONTENT
     -------------------------------------------------- */

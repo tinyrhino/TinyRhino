@@ -1,9 +1,9 @@
 <?php include 'head.php'; ?>
 <?php include 'nav.php'; ?><!-- NAVBAR -->
      
-     <div id="topImageOuter"><div id="topImageInner"></div></div>
+     <div id="topImageOuter" style="margin-top:43px;"><div id="topImageInner"></div></div>
 
- <div class="container marketing ">
+ <div class="container marketing " >
 
 	<?php include 'topbit.php'; ?>
     <!-- FEATURETTES -->
