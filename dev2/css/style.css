@@ -11,7 +11,7 @@
       }
 
 
-	  .hidden{display:none;}
+	.hidden{display:none;}
 
 	.footerContainer{
 		width:720px;
@@ -33,12 +33,12 @@
 		height: 42px;
 		width: 150px;
 		float: left;
-
 	}
 	
 	.logo h1{
 		position:absolute;
-		left:-1000px;}
+		left:-1000px;
+	}
 
 	#topImageInner{
 		background-image:url('../img/background-header.jpg');
@@ -60,8 +60,16 @@
 		background-position:center; 
 		height:420px; 
 		width:100%;
+	}    
+	
+	
+	
+	/* Charge CONTENT
+    -------------------------------------------------- */
+ 	.chargeIcons{
+		display:block;
+		margin:0 auto;
 	}
- 
  
 
     /* MARKETING CONTENT
