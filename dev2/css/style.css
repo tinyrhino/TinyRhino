@@ -9,7 +9,8 @@
         background-color: #F2DEDE !important;
         border: 1px solid #EED3D7 !important;
       }
-
+	  
+	 .spaceForNav{margin-bottom:50px;}
 
 	.hidden{display:none;}
 
@@ -71,14 +72,14 @@
 		margin:0 auto;
 	}
 	
-	#moreCharge{
-		display:none;
-		border:dashed red 1px;
+	.moreCharge{
+		display:none; /*start off as hide and show with JS later*/
+		/*border:dashed red 1px;*/
 		margin-left: 30px;
 		
 	}
  
- .spaceForNav{margin-bottom:50px;}
+
 
     /* MARKETING CONTENT
     -------------------------------------------------- */
