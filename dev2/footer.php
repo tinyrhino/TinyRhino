@@ -1,5 +1,8 @@
       <div id="footer">
       	<div id="contact" class="footerContainer">
+        <h2 class="featurette-heading" style="text-align:center; margin-bottom:100px; margin-top:100px;">Contact us. <span class="muted">We are quite freindly!</span></h2>
+        <hr style=" margin-bottom:50px; padding-top:10px;"/>
+        
         	<div id="contactForm">
             	<form method="post"  data-validate="parsley" id="emailForm" action="javascript:email()">
                         <h3>Name</h3>
@@ -28,10 +31,12 @@
                 
                 <div class="social">
                  </div> <!-- end social -->
+
+              
                 
             </div><!-- end contact-info -->
-
-        
+   <hr  style="clear:both; margin-bottom:50px; padding-top:10px;" />
+        <p style="text-align:center;"><span class="muted">&copy; tiny rhino 2013</span></p>
         </div><!-- end footer -->
 
 
