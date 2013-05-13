@@ -15,7 +15,7 @@
               <li><a href="#charge">Rhino Charges</a></li>
               <li><a href="#aboutUs">The Team</a></li>
               <li><a href="#work">Previous Work</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="#footer">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

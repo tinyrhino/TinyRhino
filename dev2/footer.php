@@ -1,5 +1,7 @@
       <div id="footer">
+      <div class="spaceForNavFoot"></div>
       	<div id="contact" class="footerContainer">
+        
         <h2 class="featurette-heading" style="text-align:center; margin-bottom:100px; margin-top:100px;">Contact us. <span class="muted">We are quite freindly!</span></h2>
         <hr style=" margin-bottom:50px; padding-top:10px;"/>
         
