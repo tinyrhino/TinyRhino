@@ -4510,7 +4510,7 @@ a.thumbnail:focus {
   z-index: 1030;
   display: block;
   visibility: visible;
-  font-size: 11px;
+  font-size: 15px;
   line-height: 1.4;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -5096,7 +5096,7 @@ a.thumbnail:focus {
   font-size: 60px;
   font-weight: 100;
   line-height: 30px;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   background: #222222;
   border: 3px solid #ffffff;
@@ -5112,7 +5112,7 @@ a.thumbnail:focus {
 }
 .carousel-control:hover,
 .carousel-control:focus {
-  color: #ffffff;
+  color: #020202;
   text-decoration: none;
   opacity: 0.9;
   filter: alpha(opacity=90);

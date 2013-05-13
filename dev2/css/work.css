@@ -13,7 +13,11 @@ background-position: center top;
 	margin-left: 41px;
 }
 
+.carousel .carousel-control {display: none;}
+.carousel:hover .carousel-control {display: inherit;}
 
+.carousel .carousel-caption {display: none;}
+.carousel:hover .carousel-caption {display: inherit;}
 
 
     /* Carousel base class */
@@ -48,11 +52,12 @@ background-position: center top;
     }
 
     .carousel-caption {
-      background-color: transparent;
+     
       position: static;
-      max-width: 500px;
+      max-width: 1050px;
       padding: 0 20px;
       margin-top: 400px;
+	  height:220px
     }
     .carousel-caption h1,
     .carousel-caption .lead {

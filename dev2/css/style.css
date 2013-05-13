@@ -226,3 +226,9 @@
 		display:block;
 	}
 	
+	
+		/* --- process ---- */
+		
+		#processContent a {color:#000;}
+		#processContent a:hover {text-decoration:none; cursor:pointer;}  
+		

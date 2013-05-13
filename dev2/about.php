@@ -1,4 +1,7 @@
-<hr class="featurette-divider" id="aboutUs">
+
+                                 
+                                 
+       <hr class="featurette-divider" id="aboutUs">
 
          <img class="featurette-image pull-right" src="img/team2.png">
         <h2 class="featurette-heading">About Us. <span class="muted">We're a pretty good team.</span></h2>

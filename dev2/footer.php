@@ -1,7 +1,7 @@
       <div id="footer">
       	<div id="contact" class="footerContainer">
         	<div id="contactForm">
-            	<form method="post"  data-validate="parsley" id="emailForm">
+            	<form method="post"  data-validate="parsley" id="emailForm" action="javascript:email()">
                         <h3>Name</h3>
                         <input type="text" name="name" class="text input-xlarge" data-trigger="change" data-required="true"/>
                         <div class="hidden">
@@ -64,7 +64,7 @@
 
 
               // AJAX submit
-			  $("#emailForm").submit(function() {
+			  function email() {
 			
 				var url = "email.php"; 
 			
@@ -83,7 +83,7 @@
 					 });
 			
 				return false; // avoid to execute the actual submit of the form.
-			});
+			  }
 
 
     
@@ -92,7 +92,7 @@
 
           // carousel demo
           $('#myCarousel').carousel();
-
+		  $('[rel=tooltip]').tooltip() 
     </script>
   </body>
 </html>
