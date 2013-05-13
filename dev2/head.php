@@ -34,4 +34,4 @@
                                    <link rel="shortcut icon" href="favicon.ico">
   </head>
 
-  <body id="home" data-spy="scroll" data-target="#nav">
+  <body  data-spy="scroll" data-target="#nav">

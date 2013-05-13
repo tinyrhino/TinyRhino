@@ -42,11 +42,20 @@
 	}
 
 	#topImageInner{
-		background-image:url('../img/background-header.jpg');
-		background-repeat:no-repeat; 
-		background-position:center; 
-		height:420px; 
-		width:100%;
+		background-image: url('../img/sky.png');
+		background-repeat: no-repeat;
+		background-size:cover;
+		background-position: center;
+		background-color:#92d7e7;
+		min-height:420px;
+		width: 100%;
+		position: absolute;
+		top: 43px;
+		left:0;
+		right:0;
+		z-index: -9999;
+		
+		
 	}
 	
 	#logolink{
@@ -55,12 +64,17 @@
 		width: 150px;
 	}
 	
-	#topImageOuter{
-		background-image:url('../img/extra.jpg');
-		 
+	#home{
+		background-image:url('../img/headerForground.png');
+		background-repeat: no-repeat;
+		background-size:cover;
 		background-position:center; 
+		position:absolute;
+		right:0;
+		left:0;
 		height:420px; 
 		width:100%;
+		top: 43px;
 	}    
 	
 	
