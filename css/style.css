@@ -77,7 +77,13 @@
 		width:100%;
 		top: 43px;
 		z-index: -900;
-	}    
+	}   
+	
+	#rhinoLogo {
+		width:100%;
+		text-align:center;
+		 
+	}
 	
 	
 	
@@ -191,7 +197,11 @@
 	  	.footerContainer{
 		width:370px;
 		}
+		
+		
 
+		
+		
     }
 	
 	
