@@ -61,7 +61,7 @@
       
             <div  class="row">
         <div class="span4 " >
-                <img class="img-circle chargeIcons" alt="140x140" style="width: 230px; height: 230px" src="img/shopicon.png">
+                <img class="img-circle chargeIcons" alt="140x140" style="width: 230px; height: 230px" src="img/eccomerce.png">
           <h2>Ecommerce Site</h2>
           <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
          
