@@ -102,13 +102,16 @@ background-position: center top;
         height: 550px;
 
       }
+	  
+
 
         .carousel-caption {
-      background-color: transparent;
+     
       position: static;
-      max-width: 500px;
+      max-width: 840px;
       padding: 0 20px;
-      margin-top: 290px;
+      margin-top: 330px;
+	  height:170px;
     }
     .carousel-caption h1,
     .carousel-caption .lead {
@@ -162,12 +165,12 @@ background-position: center top;
 
       }
 
-        .carousel-caption {
-      background-color: transparent;
+    .carousel-caption {
+	  height:110px;
       position: static;
-      max-width: 500px;
+      max-width: 630px;
       padding: 0 20px;
-      margin-top: 160px;
+      margin-top: 270px;
     }
     .carousel-caption h1,
     .carousel-caption .lead {
@@ -175,9 +178,11 @@ background-position: center top;
       line-height: 1.25;
       color: #fff;
       text-shadow: 0 1px 1px rgba(0,0,0,.4);
+	  font-size:16px;
     }
     .carousel-caption .btn {
       margin-top: 10px;
+	  padding:4px;
     }
 
     }
@@ -216,8 +221,9 @@ background-position: center top;
       }
       .carousel-caption {
         width: 65%;
-        padding: 0 70px;
-        margin-top: 100px;
+		
+		margin: 190px auto 0px;
+		}
       }
       .carousel-caption h1 {
         font-size: 20px;
