@@ -121,7 +121,7 @@
     }
     .featurette {
      /* padding-top: 120px;  Vertically center images part 1: add padding above and below text. */
-      overflow: hidden; /* Vertically center images part 2: clear their floats. */
+     /* overflow: hidden; Vertically center images part 2: clear their floats. */
     }
     .featurette-image {
       margin-top: -120px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
@@ -221,11 +221,7 @@
 		display:block;
 	}
 	
-	#contactForm{
-		margin-left:10px;
-		float:left;
-		display:block;
-	}
+	
 	
 	
 		/* --- process ---- */

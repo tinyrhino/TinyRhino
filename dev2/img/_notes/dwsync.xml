@@ -15,10 +15,10 @@
 <file name="bespoke.png" server="ftp.willkerswell.com/tinyrhino/" local="130129563890000000" remote="130129315800000000" Dst="2" />
 <file name="headerbackground.png" server="ftp.willkerswell.com/tinyrhino/" local="130129395121747275" remote="130129260600000000" Dst="2" />
 <file name="headerForground.png" server="ftp.willkerswell.com/tinyrhino/" local="130129402884941304" remote="130129260600000000" Dst="2" />
-<file name="lite.png" server="ftp.willkerswell.com/tinyrhino/" local="130129542000000000" remote="130129315800000000" Dst="2" />
+<file name="lite.png" server="ftp.willkerswell.com/tinyrhino/" local="130131956360267952" remote="130131522600000000" Dst="2" />
 <file name="mobile.png" server="ftp.willkerswell.com/tinyrhino/" local="130129453356093404" remote="130129260600000000" Dst="2" />
 <file name="headerImg.png" server="ftp.willkerswell.com/tinyrhino/" local="130129392180099022" remote="130129260600000000" Dst="2" />
-<file name="onepage.png" server="ftp.willkerswell.com/tinyrhino/" local="130129541870000000" remote="130129315800000000" Dst="2" />
+<file name="onepage.png" server="ftp.willkerswell.com/tinyrhino/" local="130131141020000000" remote="130130898000000000" Dst="2" />
 <file name="shopicon.png" server="ftp.willkerswell.com/tinyrhino/" local="130129445509254590" remote="130129260600000000" Dst="2" />
 <file name="sky.png" server="ftp.willkerswell.com/tinyrhino/" local="130129406112315899" remote="130129260600000000" Dst="2" />
 <file name="process1.png" server="ftp.willkerswell.com/tinyrhino/" local="130129513783609660" remote="130129273200000000" Dst="2" />
@@ -30,4 +30,9 @@
 <file name="work4.png" server="ftp.willkerswell.com/tinyrhino/" local="130129452160000000" remote="130129315800000000" Dst="2" />
 <file name="work5.png" server="ftp.willkerswell.com/tinyrhino/" local="130129444150000000" remote="130129315800000000" Dst="2" />
 <file name="work3.png" server="ftp.willkerswell.com/tinyrhino/" local="130129443200000000" remote="130129315800000000" Dst="2" />
+<file name="yourlogo.png" server="ftp.willkerswell.com/tinyrhino/" local="130131956367208349" remote="130131522600000000" Dst="2" />
+<file name="cross.png" server="ftp.willkerswell.com/tinyrhino/" local="130131956347007194" remote="130131522600000000" Dst="2" />
+<file name="eccomerce.png" server="ftp.willkerswell.com/tinyrhino/" local="130131956347017194" remote="130131522600000000" Dst="2" />
+<file name="tick.png" server="ftp.willkerswell.com/tinyrhino/" local="130131956355317669" remote="130131522600000000" Dst="2" />
+<file name="header-test.jpg" server="ftp.willkerswell.com/tinyrhino/" local="130131956367198348" remote="130129053600000000" Dst="2" />
 </dwsync>

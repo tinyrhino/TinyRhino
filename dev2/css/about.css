@@ -1,7 +1,15 @@
+.top-buffer-xlarge { margin-top:150px; }
 .top-buffer-large { margin-top:100px; }
+.top-buffer-lmedium { margin-top:90px; }
+.top-buffer-mmedium { margin-top:80px; }
 .top-buffer-medium { margin-top:70px; }
+.top-buffer-smedium { margin-top:60px; }
+.top-buffer-lsmall { margin-top:50px; }
+.top-buffer-msmall { margin-top:40px; }
 .top-buffer-small { margin-top:30px; }
-.top-buffer-xsmall { margin-top:10px; }
+.top-buffer-xsmall { margin-top:20px; }
+.top-buffer-xxsmall { margin-top:10px; }
+.top-buffer-xxxsmall { margin-top:5px; }
 .team-photo { width: 270px; margin-top: 0;}
 .well {
 	background-color: #343434; 

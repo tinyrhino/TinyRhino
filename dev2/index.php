@@ -18,4 +18,4 @@
     
 </div><!-- /.container -->
 
-    <?php include 'footer.php'; ?>  <!-- FOOTER -->
+    <?php include 'footer2.php'; ?>  <!-- FOOTER -->

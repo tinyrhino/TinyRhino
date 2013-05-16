@@ -9,7 +9,7 @@
 
          
       <div  class="row" style="clear:both;">
-      
+
       
         <div class="span4 " >
         <img class="img-circle chargeIcons" alt="140x140" style="width: 230px; height: 230px" src="img/onepage.png">

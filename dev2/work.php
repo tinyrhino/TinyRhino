@@ -4,7 +4,7 @@
 
 
       <div class="featurette" >
-  <h2 class="featurette-heading" style="text-align:center; margin-bottom:40px;">Here is our Previous work. <span class="muted">Take a look around.</span></h2>
+  <h2 class="featurette-heading" style="margin-bottom:40px;">Here is our Previous work. <span class="muted">Take a look around.</span></h2>
   <div id="carouselBackGround">
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
