@@ -1,15 +1,15 @@
       <hr class="featurette-divider" id="process">
 
       <div id="processContent" class="featurette">
+      <img class="featurette-image pull-right" style="margin-top: -90px;" src="img/process.png">
         <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
         
-        <div class="row">
-        <div class="span9">
+        
+
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
             <button class="btn btn-primary" type="button">Contact us</button>
-        </div>
-        </div><!--endrow-->
 
+<div class="row" style="clear: both;">
         <ul class="thumbnails top-buffer-medium">
           <li class="span3" style="cursor:pointer;" rel="tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Send us an email registering your interest, then we will send you a questionnaire to find out what you want for your site.">
             <a class="thumbnail">
@@ -38,6 +38,6 @@
           </li>
        </ul>
 
-         
-      </div>
+       </div>  <!-- end row -->
+      </div><!-- end process-->
       

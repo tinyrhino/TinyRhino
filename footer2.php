@@ -47,7 +47,7 @@
                     </div>   <!--end row -->   
                      <legend>&nbsp;</legend>  
 
-                     <p class="pull-right"><div id="nav" class="pull-right"><a href="#home">Back to top</a></div></p>
+                     <p class="pull-right"><div id="nav" class="pull-right"><a href="#veryTop">Back to top</a></div></p>
                      <!-- Button to trigger modal -->
 
         <p>&copy; 2013 Tiny Rhino. &middot; <a href="#privacy"  data-toggle="modal">Privacy</a> &middot;

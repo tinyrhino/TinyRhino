@@ -1,6 +1,6 @@
 <?php include 'head.php'; ?>
 <?php include 'nav.php'; ?><!-- NAVBAR -->
-     
+     <div id="veryTop"></div>
      <div id="home"  style="margin-top:43px;"></div>
      <div id="topImageInner" >
      	<div id="rhinoLogo">

@@ -7,10 +7,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <div class="logo" ><a id="logolink" href="#home"><img src="img/whitelogo.png" width="150" height="42" /><h1>Web Design - Tiny Rhino</h1></a></div>
+          <div class="logo" ><a id="logolink" href="#veryTop"><img src="img/whitelogo.png" width="150" height="42" /><h1>Web Design - Tiny Rhino</h1></a></div>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li><a href="#home">Home</a></li>
+              <li><a href="#veryTop">Home</a></li>
               <li><a href="#process">Our Process</a></li>
               <li><a href="#charge">Rhino Charges</a></li>
               <li><a href="#aboutUs">The Team</a></li>

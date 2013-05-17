@@ -85,6 +85,11 @@
 		 
 	}
 	
+	#veryTop{
+		position: absolute;
+		top: 0;
+	}
+	
 	
 	
 	/* Charge CONTENT
