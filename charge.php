@@ -21,37 +21,48 @@
           <div id="more1" class="moreCharge">
         
               <table class="table table-striped table-hover table-bordered top-buffer-small">
-                <tr>
+                 <tr>
                   <th colspan="2">Package components</th>
       
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Single page site
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Social Media links
+                  </td>
+                </tr>
+                 <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Contact form in the page footer
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Option to add extra pages (£69)
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
                     <img src="img/cross.png" />
+                    No content managment 
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
                     <img src="img/cross.png" />
+                    No domain / Hosting (Add these for £35)
                   </td>
                 </tr>
                 <tr>
-                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £149.99</p></td>
+                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £189.99</p></td>
                   <td><div id="nav"><a class="btn btn-primary pull-right" href="#contactus" style="margin: 0 auto;">Enquire</a></div></button></td>
                 </tr>
               </table>
@@ -76,30 +87,54 @@
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Up to 4 pages
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Image slideshow 
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Contact form
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
-                    <img src="img/cross.png" />
+                    <img src="img/tick.png" />
+                    Socail Media links
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
-                    <img src="img/cross.png" />
+                    <img src="img/tick.png" />
+                    Domain name 
                   </td>
                 </tr>
                 <tr>
-                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £149.99</p></td>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                     Option to add extra pages (£69)
+                  </td>
+                </tr>
+                
+                 <tr>
+                  <td colspan="2">
+                    <img src="img/cross.png" />
+                    No hosting (£25 extra including 2 email accounts)
+                  </td>
+                </tr>
+                 <tr>
+                  <td colspan="2">
+                    <img src="img/cross.png" />
+                    No content management 
+                  </td>
+                </tr>
+                <tr>
+                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £449.99</p></td>
                   <td><div id="nav"><a class="btn btn-primary pull-right" href="#contactus" style="margin: 0 auto;">Enquire</a></div></button></td>
                 </tr>
               </table>
@@ -124,30 +159,62 @@
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Up to 8 pages
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Bespoke Design
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
-                  </td>
-                </tr>
-                 <tr>
-                  <td colspan="2">
-                    <img src="img/cross.png" />
-                  </td>
-                </tr>
-                 <tr>
-                  <td colspan="2">
-                    <img src="img/cross.png" />
+                    Content management (allows you to change the information on the site)
                   </td>
                 </tr>
                 <tr>
-                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £149.99</p></td>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Image slideshow 
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Contact form
+                  </td>
+                </tr>
+                 <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Socail Media links
+                  </td>
+                </tr>
+                 <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Domain name 
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Hosting 
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Up to 10 email accounts 
+                  </td>
+                </tr>
+
+                
+
+                <tr>
+                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £799.99</p></td>
                   <td><div id="nav"><a class="btn btn-primary pull-right" href="#contactus" style="margin: 0 auto;">Enquire</a></div></button></td>
                 </tr>
               </table>
@@ -173,33 +240,74 @@
                   <th colspan="2">Package components</th>
       
                 </tr>
-                <tr >
+                <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Full Ecommerce shop 
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Product and content management
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Trusted Google payment gateway
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Up to 8 pages
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Bespoke Design
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Image slideshow 
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Contact form
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
-                    <img src="img/cross.png" />
+                    <img src="img/tick.png" />
+                    Socail Media links
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
-                    <img src="img/cross.png" />
+                    <img src="img/tick.png" />
+                    Domain name 
                   </td>
                 </tr>
                 <tr>
-                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £149.99</p></td>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Hosting 
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Up to 10 email accounts 
+                  </td>
+                </tr>
+                <tr>
+                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £999.99</p></td>
                   <td><div id="nav"><a class="btn btn-primary pull-right" href="#contactus" style="margin: 0 auto;">Enquire</a></div></button></td>
                 </tr>
               </table>
@@ -224,30 +332,35 @@
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Site compatible for mobile 
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Use mobile UI elements
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Optimised for tablets
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
                     <img src="img/cross.png" />
+                    Not a stand alone product
                   </td>
                 </tr>
                  <tr>
                   <td colspan="2">
-                    <img src="img/cross.png" />
+                    <img src="img/tick.png" />
+                    Just want mobile site? Contact us! 
                   </td>
                 </tr>
                 <tr>
-                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £149.99</p></td>
+                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £169.99</p></td>
                   <td><div id="nav"><a class="btn btn-primary pull-right" href="#contactus" style="margin: 0 auto;">Enquire</a></div></button></td>
                 </tr>
               </table>
@@ -272,30 +385,30 @@
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Logo desgin
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
+                    Banner design
                   </td>
                 </tr>
                 <tr>
                   <td colspan="2">
                     <img src="img/tick.png" />
-                  </td>
-                </tr>
-                 <tr>
-                  <td colspan="2">
-                    <img src="img/cross.png" />
-                  </td>
-                </tr>
-                 <tr>
-                  <td colspan="2">
-                    <img src="img/cross.png" />
+                    Multiple design concepts 
                   </td>
                 </tr>
                 <tr>
-                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £149.99</p></td>
+                  <td colspan="2">
+                    <img src="img/tick.png" />
+                    Revisions until you are happy 
+                  </td>
+                </tr>
+
+                <tr>
+                  <td class="lead"><p class="top-buffer-xxxsmall"><strong>Price:</strong> £49.99</p></td>
                   <td><div id="nav"><a class="btn btn-primary pull-right" href="#contactus" style="margin: 0 auto;">Enquire</a></div></button></td>
                 </tr>
               </table>
