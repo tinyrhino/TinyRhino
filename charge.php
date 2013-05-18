@@ -116,17 +116,18 @@
                 </tr>
                 <tr>
                   <td colspan="2">
+                    <img src="img/cross.png" />
+                    No hosting (£25 extra including 2 email accounts)
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
                     <img src="img/tick.png" />
                      Option to add extra pages (£69)
                   </td>
                 </tr>
                 
-                 <tr>
-                  <td colspan="2">
-                    <img src="img/cross.png" />
-                    No hosting (£25 extra including 2 email accounts)
-                  </td>
-                </tr>
+
                  <tr>
                   <td colspan="2">
                     <img src="img/cross.png" />
@@ -372,7 +373,7 @@
         
         <div class="span4">
                 <img class="img-circle chargeIcons" alt="140x140" style="width: 230px; height: 230px" src="img/yourlogo.png">
-          <h2>Logo and Brand Designs</h2>
+          <h2>Logo Design</h2>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
       
           
