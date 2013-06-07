@@ -6,7 +6,7 @@
         
         
 
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <p class="lead">We have a very simple process to make sure your site is made on time and to a standard that you are happy with. We aim to keep you involved throughout the journey to make sure you get the site that you need.</p>
             <button class="btn btn-primary" type="button">Contact us</button>
 
 <div class="row" style="clear: both;">

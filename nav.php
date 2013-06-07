@@ -12,7 +12,7 @@
             <ul class="nav">
               <li><a href="#veryTop">Home</a></li>
               <li><a href="#process">Our Process</a></li>
-              <li><a href="#charge">Rhino Charges</a></li>
+              <li><a href="#charge">The Charges</a></li>
               <li><a href="#aboutUs">The Team</a></li>
               <li><a href="#work">Previous Work</a></li>
               <li><a href="#contactus">Contact</a></li>

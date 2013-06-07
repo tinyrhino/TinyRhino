@@ -52,7 +52,7 @@
 
         <p>&copy; 2013 Tiny Rhino. &middot; <a href="#privacy"  data-toggle="modal">Privacy</a> &middot;
 <a href="#terms"  data-toggle="modal">Terms</a> &middot;
-<a href="#access"  data-toggle="modal">Accessibillity</a> </p>
+<a href="#access"  data-toggle="modal">Accessibility</a> </p>
 
 
 

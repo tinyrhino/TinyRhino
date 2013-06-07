@@ -2,19 +2,19 @@
      
       <div id="topbit" class="row">
               <div class="span4">
-          <h2>Our Process</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p id="nav"><a class="btn" href="#process">View details &raquo;</a></p>
+          <h2>Web Design</h2>
+          <p>We like to keep web design as simple as possible yet professional. We’ll arrange a meeting either in person or over Skype evaluating your personal needs, design and site preferences for your website. We'll get designing a bespoke professional solution, leting you choose your favourite site design and we’ll smash out the rest of your website for it to be placed live on the web. </p>
+          <p id="nav"><a class="btn" href="#process">Breakdown &raquo;</a></p>
         </div><!-- /.span4 -->
         <div class="span4 " >
-          <h2>Rhino Charges</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
-          <p id="nav"><a class="btn" href="#charge">View details &raquo;</a></p>
+          <h2>Website Charges</h2>
+          <p>We attempt to offer competitive website design prices at Tiny Rhino, while still retaining the quality of bespoke designs created by our professional team of developers. The quality of work is extremely important in the online website representation of your company and is well worth the charges offered at Tiny Rhino web design.</p>
+          <p id="nav"><a class="btn" href="#charge">View prices &raquo;</a></p>
         </div><!-- /.span4 -->
 
         <div class="span4">
-          <h2>Previous Work</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p id="nav"><a class="btn" href="#work">View details &raquo;</a></p>
+          <h2>Previous Websites</h2>
+          <p>With the low costs we offer in our design process we have had the chance to work on many various website projects which are always different. At Tiny Rhino web design we know that one company is different from another and we strive to communicate with our customers to work towards truly understanding the scope of the project.</p>
+          <p id="nav"><a class="btn" href="#work">See more &raquo;</a></p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
