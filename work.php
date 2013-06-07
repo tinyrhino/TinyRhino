@@ -17,10 +17,10 @@
           <img src="img/work1.png" alt="Stove suppliers">
           <div class="container">
             <div class="carousel-caption">
-              <h1>tiny rhino tiny charge.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Stove Suppliers</h1>
+              <p class="lead">This is a bespoke Ecommerce site for a company that sells stoves. They have many products that they want to sell. (site still under construction) </p>
               <div id="nav">
-              <a class="btn btn-large btn-primary" href="#charge">find out more</a>
+              <a class="btn btn-large btn-primary" href="www.willkerswell.com/stovesuppliers" target="_blank">Take a look</a>
               </div>
             </div>
           </div>
@@ -34,10 +34,10 @@
           <img src="img/work2.png" alt="Mountain bear">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Simple design process</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Mountain Bear </h1>
+              <p class="lead">This client need a site to show case one of there first products. The prefect place for customers to come and see what they are about and purchase the produt.</p>
               <div id="nav">
-                <a class="btn btn-large btn-primary" href="#process">Learn more</a>
+                <a class="btn btn-large btn-primary" href="http://mountainbearuk.com/" target="_blank">Take a look</a>
               </div>
             </div>
           </div>
@@ -52,10 +52,10 @@
           <img src="img/work3.png" alt="Fabric land">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Experienced. Dedicated.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Fabric Land</h1>
+              <p class="lead">This client needed a site to sell all the custom made fabric</p>
               <div id="nav">
-              <a class="btn btn-large btn-primary" href="#work">portfolio</a>
+              <a class="btn btn-large btn-primary" href="#work">Take a look</a>
               </div>
             </div>
           </div>
@@ -67,10 +67,10 @@
           <img src="img/work4.png" alt="Tiny Rhino Admin">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Experienced. Dedicated.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Tiny Rhino Admin area</h1>
+              <p class="lead">All of our site that can manage content will come with out tiny rhino admin area. there is none availible for you to very at this moment as they are all private for the customers but we are working on makeing an example one to be viewed.</p>
               <div id="nav">
-              <a class="btn btn-large btn-primary" href="#work">portfolio</a>
+              <a class="btn btn-large btn-primary" href="#work">Take a look</a>
               </div>
             </div>
           </div>
@@ -80,10 +80,10 @@
           <img src="img/work5.png" alt="Gardens">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Experienced. Dedicated.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Garden walls</h1>
+              <p class="lead">This is a simple site use by our client to show off the work. great for their online presence.</p>
               <div id="nav">
-              <a class="btn btn-large btn-primary" href="#work">portfolio</a>
+              <a class="btn btn-large btn-primary" href="#work">Take a look</a>
               </div>
             </div>
           </div>
