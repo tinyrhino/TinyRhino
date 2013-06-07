@@ -14,7 +14,7 @@
       
       
         <div class="item active">
-          <img src="img/work1.png" alt="">
+          <img src="img/work1.png" alt="Stove suppliers">
           <div class="container">
             <div class="carousel-caption">
               <h1>tiny rhino tiny charge.</h1>
@@ -31,7 +31,7 @@
         
         
         <div class="item">
-          <img src="img/work2.png" alt="">
+          <img src="img/work2.png" alt="Mountain bear">
           <div class="container">
             <div class="carousel-caption">
               <h1>Simple design process</h1>
@@ -49,7 +49,7 @@
         
         
         <div class="item">
-          <img src="img/work3.png" alt="">
+          <img src="img/work3.png" alt="Fabric land">
           <div class="container">
             <div class="carousel-caption">
               <h1>Experienced. Dedicated.</h1>
@@ -64,7 +64,7 @@
           
           
             <div class="item">
-          <img src="img/work4.png" alt="">
+          <img src="img/work4.png" alt="Tiny Rhino Admin">
           <div class="container">
             <div class="carousel-caption">
               <h1>Experienced. Dedicated.</h1>
@@ -77,7 +77,7 @@
           </div>
           
                       <div class="item">
-          <img src="img/work5.png" alt="">
+          <img src="img/work5.png" alt="Gardens">
           <div class="container">
             <div class="carousel-caption">
               <h1>Experienced. Dedicated.</h1>

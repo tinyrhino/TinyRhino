@@ -22,8 +22,9 @@
     <meta charset="utf-8">
     <title>tiny rhino</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Tiny Rhino is a bristol based web design company">
+    <meta name="author" content="Tiny Rhino">
+    <meta name="robots" content="index, follow">
 
     <!-- Le styles -->
     <link href="css/bootstrap.css" rel="stylesheet">

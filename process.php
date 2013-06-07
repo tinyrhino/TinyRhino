@@ -1,7 +1,7 @@
       <hr class="featurette-divider" id="process">
 
       <div id="processContent" class="featurette">
-      <img class="featurette-image pull-right" style="margin-top: -90px;" src="img/process.png">
+      <img class="featurette-image pull-right" style="margin-top: -90px;" src="img/process.png" alt="main process image">
         <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
         
         

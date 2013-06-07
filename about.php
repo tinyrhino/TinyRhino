@@ -5,9 +5,9 @@
 
        <div class="featurette">
 
-         <img class="featurette-image pull-right" src="img/team2.png">
+         <img class="featurette-image pull-right" src="img/team2.png" alt="The team picture">
         <h2 class="featurette-heading">About Us. <span class="muted">We're a pretty good team.</span></h2>
-        <p class="lead">Meet the team, thats us, we’ll be the ones that get you that website up and running on the internet for all your fans to see. We will run you through the whole process of design and implementation keeping you completely in the loop through out, if you ever have any questions about your site or even if you want to ask us about Tiny Rhino feel free to get in contact we’re pretty quick at replying. </p>
+        <p class="lead">Meet the team, thats us, we’ll be the ones that get you that website up and running on the internet for all your clients to see. We will run you through the whole process of design and implementation keeping you completely in the loop throughout, if you ever have any questions about your site or even if you want to ask us about Tiny Rhino feel free to get in contact we’re pretty quick at replying. </p>
 
         <div class="row">
 <button class="btn btn-primary pull-right" type="button">Contact us</button>
@@ -15,15 +15,15 @@
 
     <div class="row-fluid top-buffer-large">
 
-      <img class="featurette-image team-photo pull-left" src="img/team-will.png">
+      <img class="featurette-image team-photo pull-left" src="img/team-will.png" alt="Will picture">
       <div class="span7 well white-font">
-          <img class="well-callout callout-left" src="img/well-callout.png">
+          <img class="well-callout callout-left" src="img/well-callout.png" alt="callout">
           
           <div class="span11 pull-left">  
             <h2 class="pull-left full-width">Will Kerswell - Developer</h2>
               <p>Hi There, <br/>
-My friends call Will ‘Mr-Average’ Kerswell. I have been given this name as I am instantly average at any sport I try to play. Playing sport is how I met my parent in crime Perry we both partake in the game of Lacrosse. </p><p>
-Now for something more dull. I am a Computing and Digital Media (BSc) graduate and have been designing website for 4 years. I have love every minute of it and will go on sites for people just like you. I hope that we can help you create something wonderful. 
+My friends call Will ‘Mr-Average’ Kerswell. I have been given this name as I instantly pick up anything new I try. Through playing sport and sharing an interest in web design is how I met my partner in crime Perry, we both partake in the game of Lacrosse. </p><p>
+Now for something more technical. I am a Computing and Digital Media (BSc) graduate and have been designing websites for 4 years. I have loved every minute of it and will go on developing sites for people just like you. I hope that we can help you create something wonderful. 
 </p>
 
               <a  class="btn btn-primary top-buffer-xsmall" href="#contactus">Contact us</a>
@@ -36,10 +36,10 @@ Now for something more dull. I am a Computing and Digital Media (BSc) graduate a
 
 
     <div class="row-fluid top-buffer-large">
-      <img class="featurette-image team-photo pull-right" src="img/team-perry.png">
+      <img class="featurette-image team-photo pull-right" src="img/team-perry.png" alt="perry picture">
 
       <div class="span7 well white-font pull-right">
-          <img class="well-callout callout-right rotate-180" src="img/well-callout.png">
+          <img class="well-callout callout-right rotate-180" src="img/well-callout.png" alt="callout">
           
           <div class="span11 white-font">  
             <h2 class="full-width pull-right">Perry Steward - Designer</h2>
