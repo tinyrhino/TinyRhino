@@ -20,7 +20,7 @@
 -->
   <head>
     <meta charset="utf-8">
-    <title>tiny rhino</title>
+    <title>tiny rhino - Web Design</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tiny Rhino is a bristol based web design company">
     <meta name="author" content="Tiny Rhino">
